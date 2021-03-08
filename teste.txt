@@ -1,12 +1,9 @@
-aasdasdasd
+asdasd
 
 asasdas
+<<<<<<< Updated upstream
+=======
 
 
-
-
-xcxcxxcxcxcx
-
-
-
-88888888888888
+00000000000000
+>>>>>>> Stashed changes
